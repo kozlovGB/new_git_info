@@ -29,4 +29,7 @@ git branch branch_name
 Для того, чтобы удалить ветку branch_name, нужно написать:
 >git branch -d branch_name
 
+Для перехода к ветки branch_name:
+>git checkout branch_name
+
 ![какая-то картинка](podpis.jpg)
