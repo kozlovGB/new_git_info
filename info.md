@@ -26,4 +26,7 @@
 Для создания новой ветки нужно:
 git branch branch_name
 
+Для совмещения текущей ветки с веткой branch_name:
+> git merge branch_name
+
 ![какая-то картинка](podpis.jpg)
