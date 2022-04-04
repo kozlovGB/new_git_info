@@ -36,5 +36,8 @@
 Для перехода к ветки branch_name:
 >git checkout branch_name
 
+Для визуализации веток можно использовать:
+>git log --graph
+
 
 ![какая-то картинка](podpis.jpg)
